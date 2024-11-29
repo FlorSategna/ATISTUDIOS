@@ -458,13 +458,13 @@ margin-top: 64px;
   opacity: 1;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1199px) {
   .sidepanel, .closebtn, .openbtn {
     display: none;
   }
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 1199px) {
   p, strong, em {
     font-size: 1rem;
     margin: 0;
@@ -599,7 +599,7 @@ h2 {
   }
 }
 
-@media (min-width: 320px) and (max-width: 991px) {
+@media (min-width: 320px) and (max-width: 1199px) {
   .nav-bar {
     display: flex;
     justify-content: space-between;
